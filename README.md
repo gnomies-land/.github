@@ -1,5 +1,3 @@
-## NFT Project Hub
-
 # Gnomies Land
 
 Welcome to Gnomies Land! We are a vibrant community where digital creators, developers, and enthusiasts converge to explore the world of Non-Fungible Tokens (NFTs). Here, we aim to unleash creativity, foster innovation, and shape the future of digital ownership.
